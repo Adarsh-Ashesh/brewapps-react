@@ -1,0 +1,8 @@
+(1)Here, I have used React to to create the front page.
+(2)Imported (BrowserRouter, Routes, Route) from 'react-   router-dom' as libraries.
+(3)For differrent images and for different button, I have    created different files for each so that onclicking each    button, it is responsive.
+(4)I have given Route to each element in App.js so onclicking    button, I have given an function in Nav.js file which    route it to the provided element.
+(5)In App.CSS file, I have used different classes to add some    style  accordingly.
+
+The link for Heroku :-
+The link for Github :-
